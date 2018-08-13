@@ -1,0 +1,37 @@
+Parse tree 
+(ROOT (S (NP (NN Sokobanja)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ popular)) (NN tourist) (NNS resorts)) (PP (IN in) (NP (NNP Serbia))))))) (. .)))
+Parse tree
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (VBN situated) (PP (IN in) (NP (NP (DT the) (JJ southern) (NN part)) (PP (IN of) (NP (NN Sokobanja) (NN valley))) (, ,) (VP (VBN surrounded) (PP (IN by) (NP (NNS mountains) (NNP Ozren) (, ,) (NNP Devica) (, ,) (NNP Janior) (, ,) (NNP Rtanj) (CC and) (NNP Bukovik)))))))) (. .)))
+Parse tree
+(ROOT (S (NP (DT The) (NNP Moravica) (NNP River)) (VP (VBZ runs) (PP (IN through) (NP (NNP Sokobanja)))) (. .)))
+Parse tree
+(ROOT (S (NP (PRP It)) (VP (VBZ creates) (NP (DT a) (ADJP (ADJP (RB canyon) (RB just)) (NP (CD 2))) (NN km)) (PP (IN before) (S (VP (VBG entering) (NP (DT the) (NN town)))))) (. .)))Parse tree 
+(ROOT (S (NP (NP (NP (NNS Remains)) (PP (IN of) (NP (DT the) (NNP Roman)))) (CC and) (NP (NP (RB later) (JJ medieval) (JJ Serbian) (NN fortress)) (NP (NNP Sokograd)))) (VP (VB stand) (NP (NP (NN today)) (PP (IN near) (NP (NP (DT the) (NN canyon)) (PP (IN of) (NP (NNP Moravica))))))) (. .)))
+Parse tree
+(ROOT (S (NP (DT The) (NNP Moravica)) (VP (VBD was) (VP (VBN known) (PP (IN for) (NP (NP (DT the) (JJ clear) (NN water)) (CC and) (NP (NP (DT the) (NN abundance)) (PP (IN of) (NP (DT the) (NN crayfish)))))))) (. .)))
+Parse tree
+(ROOT (S (NP (NP (DT The) (CD 1945) (NN edition)) (PP (IN of) (NP (DT the) (NNP Politika) (NN newspaper)))) (VP (VBZ reports) (PP (IN about) (NP (NP (DT the) (NN export)) (PP (IN of) (NP (DT the) (NN crayfish))))) (PP (IN from) (NP (NNP Sokobanja))) (, ,) (S (VP (VBG stating) (SBAR (IN that) (`` ``) (S (NP (PRP they)) (VP (VBD were) (VP (VBN transported) (PP (IN from) (NP (NN Moravica))) (PP (IN by) (NP (NP (NNS airplanes)) (PP (TO to) (NP (NP (NNP Paris) (, ,) (NNP London) (CC and) (NNP Monte)) (NNP Carlo)))))))) ('' ''))))) (. .)))
+Parse tree
+(ROOT (S (NP (NP (NNP Artificial) (NNP Lake) (NNP Bovan)) (PP (IN on) (NP (DT the) (NNP Moravica)))) (VP (VBZ is) (ADJP (VBN situated) (SBAR (S (NP (DT some) (CD 10) (NNS minutes)) (VP (VBP drive) (PP (TO to) (NP (NP (DT the) (NN west)) (PP (IN of) (NP (NN Sokobanja)))))))))) (. .)))
+Parse tree
+(ROOT (S (NP (NN Sokobanja)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ popular)) (NN tourist) (NNS resorts)) (PP (IN in) (NP (NNP Serbia))))))) (. .)))
+Parse tree
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (VBN situated) (PP (IN in) (NP (NP (DT the) (JJ southern) (NN part)) (PP (IN of) (NP (NN Sokobanja) (NN valley))) (, ,) (VP (VBN surrounded) (PP (IN by) (NP (NNS mountains) (NNP Ozren) (, ,) (NNP Devica) (, ,) (NNP Janior) (, ,) (NNP Rtanj) (CC and) (NNP Bukovik)))))))) (. .)))Parse tree 
+(ROOT (S (NP (DT The) (NNP Moravica) (NNP River)) (VP (VBZ runs) (PP (IN through) (NP (NNP Sokobanja)))) (. .)))
+Parse tree
+(ROOT (S (NP (PRP It)) (VP (VBZ creates) (NP (DT a) (ADJP (ADJP (RB canyon) (RB just)) (NP (CD 2))) (NN km)) (PP (IN before) (S (VP (VBG entering) (NP (DT the) (NN town)))))) (. .)))Parse tree 
+(ROOT (S (NP (NP (NP (NNS Remains)) (PP (IN of) (NP (DT the) (NNP Roman)))) (CC and) (NP (NP (RB later) (JJ medieval) (JJ Serbian) (NN fortress)) (NP (NNP Sokograd)))) (VP (VB stand) (NP (NP (NN today)) (PP (IN near) (NP (NP (DT the) (NN canyon)) (PP (IN of) (NP (NNP Moravica))))))) (. .)))
+Parse tree
+(ROOT (S (NP (DT The) (NNP Moravica)) (VP (VBD was) (VP (VBN known) (PP (IN for) (NP (NP (DT the) (JJ clear) (NN water)) (CC and) (NP (NP (DT the) (NN abundance)) (PP (IN of) (NP (DT the) (NN crayfish)))))))) (. .)))
+Parse tree
+(ROOT (S (NP (NP (DT The) (CD 1945) (NN edition)) (PP (IN of) (NP (DT the) (NNP Politika) (NN newspaper)))) (VP (VBZ reports) (PP (IN about) (NP (NP (DT the) (NN export)) (PP (IN of) (NP (DT the) (NN crayfish))))) (PP (IN from) (NP (NNP Sokobanja))) (, ,) (S (VP (VBG stating) (SBAR (IN that) (`` ``) (S (NP (PRP they)) (VP (VBD were) (VP (VBN transported) (PP (IN from) (NP (NN Moravica))) (PP (IN by) (NP (NP (NNS airplanes)) (PP (TO to) (NP (NP (NNP Paris) (, ,) (NNP London) (CC and) (NNP Monte)) (NNP Carlo)))))))) ('' ''))))) (. .)))
+Parse tree
+(ROOT (S (NP (NP (NNP Artificial) (NNP Lake) (NNP Bovan)) (PP (IN on) (NP (DT the) (NNP Moravica)))) (VP (VBZ is) (ADJP (VBN situated) (SBAR (S (NP (DT some) (CD 10) (NNS minutes)) (VP (VBP drive) (PP (TO to) (NP (NP (DT the) (NN west)) (PP (IN of) (NP (NN Sokobanja)))))))))) (. .)))Parse tree 
+(ROOT (S (NP (NN Sokobanja)) (VP (VBZ is) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT the) (ADJP (RBS most) (JJ popular)) (NN tourist) (NNS resorts)) (PP (IN in) (NP (NNP Serbia))))))) (. .)))Parse tree 
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (VBN situated) (PP (IN in) (NP (NP (DT the) (JJ southern) (NN part)) (PP (IN of) (NP (NN Sokobanja) (NN valley))) (, ,) (VP (VBN surrounded) (PP (IN by) (NP (NNS mountains) (NNP Ozren) (, ,) (NNP Devica) (, ,) (NNP Janior) (, ,) (NNP Rtanj) (CC and) (NNP Bukovik)))))))) (. .)))Parse tree 
+(ROOT (S (NP (DT The) (NNP Moravica) (NNP River)) (VP (VBZ runs) (PP (IN through) (NP (NNP Sokobanja)))) (. .)))Parse tree 
+(ROOT (S (NP (PRP It)) (VP (VBZ creates) (NP (DT a) (ADJP (ADJP (RB canyon) (RB just)) (NP (CD 2))) (NN km)) (PP (IN before) (S (VP (VBG entering) (NP (DT the) (NN town)))))) (. .)))Parse tree 
+(ROOT (S (NP (NP (NP (NNS Remains)) (PP (IN of) (NP (DT the) (NNP Roman)))) (CC and) (NP (NP (RB later) (JJ medieval) (JJ Serbian) (NN fortress)) (NP (NNP Sokograd)))) (VP (VB stand) (NP (NP (NN today)) (PP (IN near) (NP (NP (DT the) (NN canyon)) (PP (IN of) (NP (NNP Moravica))))))) (. .)))Parse tree 
+(ROOT (S (NP (DT The) (NNP Moravica)) (VP (VBD was) (VP (VBN known) (PP (IN for) (NP (NP (DT the) (JJ clear) (NN water)) (CC and) (NP (NP (DT the) (NN abundance)) (PP (IN of) (NP (DT the) (NN crayfish)))))))) (. .)))Parse tree 
+(ROOT (S (NP (NP (DT The) (CD 1945) (NN edition)) (PP (IN of) (NP (DT the) (NNP Politika) (NN newspaper)))) (VP (VBZ reports) (PP (IN about) (NP (NP (DT the) (NN export)) (PP (IN of) (NP (DT the) (NN crayfish))))) (PP (IN from) (NP (NNP Sokobanja))) (, ,) (S (VP (VBG stating) (SBAR (IN that) (`` ``) (S (NP (PRP they)) (VP (VBD were) (VP (VBN transported) (PP (IN from) (NP (NN Moravica))) (PP (IN by) (NP (NP (NNS airplanes)) (PP (TO to) (NP (NP (NNP Paris) (, ,) (NNP London) (CC and) (NNP Monte)) (NNP Carlo)))))))) ('' ''))))) (. .)))Parse tree 
+(ROOT (S (NP (NP (NNP Artificial) (NNP Lake) (NNP Bovan)) (PP (IN on) (NP (DT the) (NNP Moravica)))) (VP (VBZ is) (ADJP (VBN situated) (SBAR (S (NP (DT some) (CD 10) (NNS minutes)) (VP (VBP drive) (PP (TO to) (NP (NP (DT the) (NN west)) (PP (IN of) (NP (NN Sokobanja)))))))))) (. .)))
